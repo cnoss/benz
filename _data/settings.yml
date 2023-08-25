@@ -1,0 +1,14 @@
+basic_settings:
+  site_title: Mercedes Benz zu verkaufen
+  site_tagline: E 200 CDI, Erstzulassung 04.2009
+  favicon_image: /images/favicon.ico
+  description: Gut gepflegter Mercedes von Papa zu verkaufen.
+  featured_image: "/images/large/kleid.jpg"
+
+
+advanced_settings:
+  ajax_loading: true
+  analytics_code: ""
+  custom_styles: ""
+  header_js: ""
+  footer_js: ""
